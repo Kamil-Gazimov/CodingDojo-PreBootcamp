@@ -1,0 +1,158 @@
+.wrapper{
+    width: 100%;
+    background-color: #4a373f;
+    margin: 0px auto;
+}
+/* Start of the header */
+.header{
+    background-color: #f6f6f6;
+    padding: 0px 0px 0px 0px;
+    height: 100px;
+    width: 100%;
+    top: 0px;
+    z-index: 50;
+   }
+h1, h2{
+    margin: 10px 0px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 40pt;
+    display: inline-block;  
+}   
+h2{
+    position: relative;
+    left: 1098px;
+    font-size: 24pt;
+    font-family: Arial;
+}
+/* end of the header */
+/* start of the main content */
+.main_photo{
+    height: 500px;
+    width: 46%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    color: #c2d6ed;
+    margin: 20px;
+    border: 10px;
+    border-style: solid;
+    border-color: #c0c0c0;
+}
+a{
+    color: black;
+    padding: 0px 20px;
+}
+   .about{
+    height: 520px;
+    width: 48.5%;
+    display: inline-block;
+    background-color: #e1d4e0;
+    color: #1e1e1e;
+    margin: 20px;
+    padding: 40px 60px 40px 40px;
+    font-family: arial;
+    font-size: 20pt;
+}
+   #footer{
+    background-color:#5d6573;
+    height: 20px; 
+}
+div img[src="images/photo_of_me.jpg"] {
+    width: 100%;
+    height: 100%; 
+    object-fit: cover;
+}
+img {
+    width: 495px;
+    height: 125px; 
+    object-fit: cover;
+}
+.p_tag{
+    height: 300px;
+}
+.grid{
+    height: 1300px;
+    width: 31.093%;
+    background-color: #e2d6e1;
+    display:inline-block;
+    margin: 20px;
+    vertical-align: middle;    
+    font-family: arial;
+    font-size: 20pt;
+    padding: 0px;
+}
+div.about{
+    padding: 0px;
+}
+p{
+    padding: 0px 20px;
+}
+h3{
+    background-color: #878593;
+    background: radial-gradient(rgb(14, 13, 13), rgb(136, 136, 133), rgb(245, 247, 245));
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 66px;
+    text-align: center;
+    padding-top: 33px;
+    color: #fbffff;
+}
+h4{
+    background-color: #6adde6;
+    background: radial-gradient(rgb(14, 13, 13), rgb(136, 136, 133), rgb(245, 247, 245));
+    width: 562px;
+    height: 80px;
+
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 66px;
+    text-align: center;
+    padding-top: 33px;
+    color: #fbffff;
+}
+button{
+    background-color: #407c61;
+    height: 50px;
+    font-size: 20pt;
+    color: white;
+    border: green;
+    border-style: solid;
+    border-radius: 20px;
+    text-align: center;
+    position: relative;
+    left:220px;
+}
+.grid img.page_photo{
+    height: 300px;
+}
+.icons img.icon{
+    width: 18.899%;
+    height: 110px;
+}
+img{
+    width:100%;
+}
+#header1-end {
+    display: inline-block;
+    color: white;
+}
+.footer{
+    background-color: #f6f6f6;
+    height: 150px;
+}
+p#email{
+    font-size: 30pt;
+    text-align: center;
+}
+li{
+    display:inline-block;
+    position:relative;
+    left:480px;
+    font-size:30pt;
+}
+ul li img{
+    height: 50px;
+    width: 50px;
+}
